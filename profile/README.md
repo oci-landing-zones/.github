@@ -1,7 +1,7 @@
 <!--- using a banner is optional, but recommended. Reach out to the OGHO team for banner templates.--->
 <!--- put the banner with description here --->
 
-# [OCI Landing Zones]
+# OCI Landing Zones
 
 Welcome to the OCI Landing Zones (OLZ) Community! Landing Zones will help you configure and secure your tenancy's automated deployment of OCI services and designed to align with CIS Oracle Cloud Infrastructure Foundations Benchmark.
 
