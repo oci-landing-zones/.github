@@ -1,5 +1,5 @@
-<!--- using a banner is optional, but recommended. Reach out to the OGHO team for banner templates.--->
-<!--- put the banner with description here --->
+![OCI Landing Zone Logo](https://github.com/OCI-Landing-Zones/.github/blob/main/profile/Landing%20Zones%20(1).png "Landing Zones will help you configure and secure your tenancy's automated deployment of OCI services and designed to align with CIS Oracle Cloud Infrastructure Foundations Benchmark")
+
 
 # OCI Landing Zones
 
