@@ -3,7 +3,8 @@
 
 # OCI Landing Zones
 
-Welcome to the OCI Landing Zones (OLZ) Community! Landing Zones will help you configure and secure your tenancy's automated deployment of OCI services and designed to align with CIS Oracle Cloud Infrastructure Foundations Benchmark.
+Welcome to the OCI Landing Zones (OLZ) Community! OCI Landing Zones simplify onboarding and running on OCI by providing design guidance, best practices, and pre-configured Terraform deployment templates for various architectures and use cases. These enable customers to easily provision a secure tenancy 
+foundation in the cloud along with all required services, and reliably scale as workloads expand.
 
 ## Get Started
 
