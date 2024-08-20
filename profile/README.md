@@ -1,4 +1,4 @@
-![OCI Landing Zone Logo](https://github.com/OCI-Landing-Zones/.github/blob/main/profile/Landing%20Zones%20(1).png "Landing Zones will help you configure and secure your tenancy's automated deployment of OCI services and designed to align with CIS Oracle Cloud Infrastructure Foundations Benchmark")
+![OCI Landing Zone Logo](https://github.com/oci-landing-zones/.github/blob/main/profile/OCILandingZoneLogo.png "Simplify OCI onboarding with automated provisioning of a secure tenancy foundation with required cloud services")
 
 
 # OCI Landing Zones
