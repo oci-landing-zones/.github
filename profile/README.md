@@ -3,8 +3,20 @@
 
 # OCI Landing Zones
 
-Welcome to the OCI Landing Zones (OLZ) Community! OCI Landing Zones simplify onboarding and running on OCI by providing design guidance, best practices, and pre-configured Terraform deployment templates for various architectures and use cases. These enable customers to easily provision a secure tenancy 
-foundation in the cloud along with all required services, and reliably scale as workloads expand.
+Welcome to the OCI Landing Zones Git Organization! 
+
+This organization contains a [framework](https://blogs.oracle.com/cloud-infrastructure/post/new-standardized-oci-landing-zones-framework) to simplify the onboarding and running on OCI by providing blueprints with design guidance, best practices, pre-configured Terraform templates for various architectures and use cases, and generic Terraform modules for any OCI deployment. These enable customers to easily provision a secure tenancy foundation in the cloud along with all required services, and reliably scale as workloads expand.
+
+By default, all landing zone modules and blueprints will meet the Center for Internet Security (CIS) OCI Benchmark to ensure a minimum-security baseline that can be easily verified by running the [CIS Compliance Check Script](https://github.com/oracle-quickstart/oci-cis-landingzone-quickstart/blob/main/compliance-script.md).
+
+To learn more about the framework, deploy landing zone blueprints, or contribute to this community, your team can start with the options below, reviewing its documentation to determine which is most suitable as your ideal starting point.
+
+1. [**Core Landing Zone**](https://github.com/oci-landing-zones/terraform-oci-core-landingzone) – contains blueprints ready for various workloads and is suitable for centralized operations within your organization.
+2. [**Operating Entities Landing Zone**](https://github.com/oci-landing-zones/terraform-oci-open-lz) – contains blueprints to onboard your organizations and partners and their workloads with distributed operations.
+
+Both starting points take advantage of the Terraform modules with complete and secure blueprints (e.g., Quickstart, Zero-Trust, SCCA, One-Operating Entity, Multi-Operating Entities, Multi-Tenancy, etc.) that can be also used to create your landing zone blueprint. 
+
+**Extensions** and **Workloads** are coming soon, adding incremental capabilities and enabling pluggable workloads on top of any landing zone blueprint, respectively.  
 
 ## Get Started
 
