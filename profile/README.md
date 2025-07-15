@@ -16,7 +16,7 @@ To learn more about the framework, deploy landing zone blueprints, or contribute
 
 Both starting points take advantage of the Terraform modules with complete and secure blueprints (e.g., Quickstart, Zero-Trust, SCCA, One-Operating Entity, Multi-Operating Entities, Multi-Tenancy, etc.) that can be also used to create your landing zone blueprint. 
 
-**Extensions** and **Workloads** are coming soon, adding incremental capabilities and enabling pluggable workloads on top of any landing zone blueprint, respectively.  
+**Extensions** and **Workloads** add incremental capabilities and enabling pluggable workloads on top of any landing zone blueprint, respectively.
 
 ## Get Started
 
